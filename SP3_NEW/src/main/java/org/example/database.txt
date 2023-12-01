@@ -1,0 +1,5 @@
+Username,Password,isAdmin
+Mads,mads123,true
+Kevin,kev123,true
+Rouvi,rouvi123,true
+rouvi,rouvi123,false
